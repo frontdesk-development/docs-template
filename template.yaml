@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Template
 metadata:
   name: este-docs-template
-  title: Documentation Template
+  title: ESTE-Documentation Template
   description: Create a new standalone documentation project
   tags:
     - Experimental
