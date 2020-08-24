@@ -12,7 +12,7 @@ spec:
   owner: frontdes-development/docs
   templater: cookiecutter
   type: documentation
-  path: './pepe'
+  path: '.'
   
   schema:
     required: 
