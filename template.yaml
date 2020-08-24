@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Template
 metadata:
-  name: docs-template
+  name: este-docs-template
   title: Documentation Template
   description: Create a new standalone documentation project
   tags:
@@ -9,7 +9,7 @@ metadata:
     - TechDocs
     - MkDocs
 spec:
-  owner: spotify/techdocs-core
+  owner: frontdes-development/docs
   templater: cookiecutter
   type: documentation
   path: '.'
